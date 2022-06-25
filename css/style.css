@@ -1,0 +1,39 @@
+body {
+    background-color: aquamarine;
+    width: 630px;
+    border: slateblue solid 2px;
+    padding: 15px;
+}
+.intro {
+    display: flex;
+    border: solid skyblue 2px;
+}
+.pages {
+    text-align: center;
+    padding: 20px;
+}
+.honest-fashion {
+    text-align: center;
+    margin: 30px;
+}
+.ab {
+    background-color: yellowgreen;
+    width: 100px;
+    border-radius: 10px;
+    border-width: 1pt;
+    cursor: pointer;
+    font-weight: bold;
+}
+.ab:hover {
+    opacity: 0.3;
+}
+.ab:active {
+    opacity: 0.7;
+}
+h2 {
+    color: darkmagenta;
+    font-style: normal;
+    font-size: 50px;
+    font-weight: bold;
+}
+
